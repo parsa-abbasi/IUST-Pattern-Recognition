@@ -55,8 +55,7 @@ The [*Inception V3*](https://keras.io/api/applications/inceptionv3/) was used as
 
 #### References
 
-1. 
-  Amir Soleimani and Kazim Fouladi and Babak Nadjar Araabi (2016). UTSig: A Persian Offline Signature Dataset. [https://arxiv.org/abs/1603.03235](https://arxiv.org/abs/1603.03235)
+1. Amir Soleimani and Kazim Fouladi and Babak Nadjar Araabi (2016). UTSig: A Persian Offline Signature Dataset. [https://arxiv.org/abs/1603.03235](https://arxiv.org/abs/1603.03235)
 
 ## Course Information
 * Pattern Recognition
